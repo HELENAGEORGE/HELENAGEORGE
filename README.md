@@ -1,8 +1,6 @@
-### Hi there 👋
+### Hi there 👋 HELENA Here
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on Inshot.inc
+- 🔭 I’m currently working on [Inshot.inc](inshot.android@inshot.com)
 - 🌱 I’m currently learning Nothing
 - 👯 I’m looking to collaborate on Inshot AntiPro
 - 🤔 I’m looking for help with Brught Features for INShoT
